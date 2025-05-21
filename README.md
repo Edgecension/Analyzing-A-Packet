@@ -1,4 +1,4 @@
-# Analyzing-A-Packet
+# Applying A Basic Filter And Inspecting A Packet
 
 ## Objective
 Analyze a network packet capture file that contains traffic data related to a user connecting to an internet site.
